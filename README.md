@@ -2,7 +2,7 @@
 
 Welcome to my personal Parch Linux (Arch Based) configuration repo! This collection includes configuration.
 
-I use [Parch Linux](https://cachyos.org) (BTW)
+I use [Parch Linux](https://parchlinux.com/en) (BTW)
 
 Why [Parch Linux](https://wiki.parchlinux.com/en/Frequently_asked_questions#why-should-i-use-parch)
 
