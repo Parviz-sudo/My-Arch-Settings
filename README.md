@@ -1,6 +1,6 @@
-# My Arch Linux Settings
+# My Arch Linux Dotfiles
 
-Welcome to my personal Parch Linux (Arch Based) configuration repo! This collection includes configuration.
+Welcome to my personal Parch Linux (Arch Based) dotfiles repo! This collection includes configuration.
 
 I use [Parch Linux](https://parchlinux.com/en) (BTW)
 
